@@ -1,4 +1,4 @@
-# mongo-cluster-docker
+# mongo-cluster-docker(mongo:4.4.25)
 
 This is a simple 3 node replica mongodb setup based on official `mongo` docker image using `docker-compose` described in my blogpost at https://warzycha.pl/mongo-db-sharding-docker-example/.
 
